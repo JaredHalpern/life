@@ -10,4 +10,4 @@
 - 02/2007 Started at JPM
 - 03/2012 Left JPM
 - 07/2012 Founded byteMason
-- 04/1976-2011 Whole bunch of interesting events
+- 06/1980-2013 Whole bunch of interesting events
