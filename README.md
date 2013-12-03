@@ -1,9 +1,9 @@
 Life
 ====
 
-This is something that I've wanted to build for a long time. It's a **timeline of important events** in my life, visualized in a way my mind always imagine it. There was something called [**Lifepath.me**](http://dcurt.is/facebook-timelines-and-lifepath-me-4) but now it's gone. How about Facebook timeline? Meh.
+This is a **timeline of important events** in my life, visualized. There was something called [**Lifepath.me**](http://dcurt.is/facebook-timelines-and-lifepath-me-4) but now it's gone. How about Facebook timeline? Meh.
 
-So, this is it. Have a look at [cheeaun.github.io/life](http://cheeaun.github.io/life).
+So, this is it. Have a look at [jaredhalpern.github.io/life](http://jaredhalpern.github.io/life).
 
 Features
 --------
@@ -35,8 +35,8 @@ How to upgrade your *Life*
 --------------------------
 
 1. `git checkout master`
-2. `git remote add cheeaun https://github.com/cheeaun/life.git`
-3. `git fetch cheeaun` and `git merge cheeaun/master` to upgrade to latest Life.
+2. `git remote add jaredhalpern https://github.com/jaredhalpern/life.git`
+3. `git fetch jaredhalpern` and `git merge jaredhalpern/master` to upgrade to latest Life.
 4. `git checkout gh-pages` and `git merge master` to sync changes back to GitHub Pages.
 
 [Learn more](https://help.github.com/articles/fork-a-repo).
